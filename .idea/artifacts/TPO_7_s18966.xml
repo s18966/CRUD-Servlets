@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="TPO_7_s18966">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TPO_7_s18966</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TPO7_AA_S18966" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="javax.servlet-api-4.0.1" />
+          <element id="library" level="application" name="mysql-connector-java-8.0.25" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="TPO7_AA_S18966/web/Web" />
+    </root>
+  </artifact>
+</component>
